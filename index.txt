@@ -1,4 +1,4 @@
-hello
-hi
-BYE
-GOODBYE
+hello a
+his
+BYE s
+GOODBYE df
