@@ -1,4 +1,3 @@
-hello a
-his
-BYE s
-GOODBYE df
+line 1
+line 2
+line 3
